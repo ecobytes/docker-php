@@ -1,5 +1,5 @@
 FROM robbertkl/base-s6
-MAINTAINER Robbert Klarenbeek <robbertkl@renbeek.nl>
+MAINTAINER Gualter Barbas Baptista <gualter@ecobytes.net>
 
 # Install packages and clean up after apt
 RUN cleaninstall \
