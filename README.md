@@ -1,4 +1,4 @@
-# robbertkl/php
+# gandhiano/php-fpm-nossl 
 
 [![](https://badge.imagelayers.io/robbertkl/php:latest.svg)](https://imagelayers.io/?images=robbertkl/php:latest)
 
@@ -43,6 +43,7 @@ You can tweak the behaviour by setting the following environment variables:
 ## Authors
 
 * Robbert Klarenbeek, <robbertkl@renbeek.nl>
+* Gualter Barbas Baptista <gualter@ecobytes.net>
 
 ## License
 
